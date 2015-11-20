@@ -3,8 +3,5 @@ language: java
 branches:
   only:
     - master
-    - java3
-    - java2
-    - java1
-    - csharp
+    - csharp2
 
